@@ -49,4 +49,4 @@ Contributions are welcome! Please create a pull request to add your suggestions.
 
 ---
 
-Happy Networking! 🌐🔀
+Happy Networking! 🌐
